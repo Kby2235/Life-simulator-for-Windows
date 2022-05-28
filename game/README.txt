@@ -1,1 +1,1 @@
-Open "life-simulatorbeta.exe" to start the app. Open "licenses.html" for information regarding software licenses used by the app.
+Unzip life-simulatorlauncher.zip and start the game or Open "licenses.html" for information regarding software licenses used by the app.
